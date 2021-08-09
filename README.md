@@ -24,5 +24,5 @@ yarn android
 * Gestures
 * ...
 ## Screenshots:
-![png](/screenshot1.png "Home Page")
-![png](/screenshot2.png "Account Page")
+![png](/screenshot1.jpg "Home Page")
+![png](/screenshot2.jpg "Account Page")
