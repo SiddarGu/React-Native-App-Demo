@@ -18,3 +18,11 @@ yarn ios
 ```
 yarn android
 ```
+## Features
+* Language Localization
+* Customized Theme
+* Gestures
+* ...
+## Screenshots:
+![png](/screenshot1.png "Home Page")
+![png](/screenshot2.png "Account Page")
